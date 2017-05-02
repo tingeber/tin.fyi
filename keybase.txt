@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/tingeber
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tin.fyi
+  * I am tingeber (https://keybase.io/tingeber) on keybase.
+  * I have a public key ASC8GvrrW5Vd-foa2u3uhTzgDMIGZKJb2xiuaGhPx2QzJAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120bc1afaeb5b955df9fa1adaedee853ce00cc20664a25bdb18ae68684fc76433240a",
+            "host": "keybase.io",
+            "kid": "0120bc1afaeb5b955df9fa1adaedee853ce00cc20664a25bdb18ae68684fc76433240a",
+            "uid": "2cc6b1490648e928fdb24273003a6e00",
+            "username": "tingeber"
+        },
+        "service": {
+            "hostname": "tin.fyi",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1493701098,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1493701043,
+        "hash": "93a8e2b7734f11996b3e996a9fa5d96c399a81b9e11f5e9df9346921631254fe14fad937e414a4300df36929e91374fbed8adf74321abb7a09fe5b8e09b8efec",
+        "seqno": 1048791
+    },
+    "prev": "07792d0648629e4949eb74366e6f025b2fc4f809aec6f2f21b2b2ff00f56a1e5",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvBr661uVXfn6Gtrt7oU84AzCBmSiW9sYrmhoT8dkMyQKp3BheWxvYWTFAvB7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYmMxYWZhZWI1Yjk1NWRmOWZhMWFkYWVkZWU4NTNjZTAwY2MyMDY2NGEyNWJkYjE4YWU2ODY4NGZjNzY0MzMyNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmMxYWZhZWI1Yjk1NWRmOWZhMWFkYWVkZWU4NTNjZTAwY2MyMDY2NGEyNWJkYjE4YWU2ODY4NGZjNzY0MzMyNDBhIiwidWlkIjoiMmNjNmIxNDkwNjQ4ZTkyOGZkYjI0MjczMDAzYTZlMDAiLCJ1c2VybmFtZSI6InRpbmdlYmVyIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ0aW4uZnlpIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMSJ9LCJjdGltZSI6MTQ5MzcwMTA5OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkzNzAxMDQzLCJoYXNoIjoiOTNhOGUyYjc3MzRmMTE5OTZiM2U5OTZhOWZhNWQ5NmMzOTlhODFiOWUxMWY1ZTlkZjkzNDY5MjE2MzEyNTRmZTE0ZmFkOTM3ZTQxNGE0MzAwZGYzNjkyOWU5MTM3NGZiZWQ4YWRmNzQzMjFhYmI3YTA5ZmU1YjhlMDliOGVmZWMiLCJzZXFubyI6MTA0ODc5MX0sInByZXYiOiIwNzc5MmQwNjQ4NjI5ZTQ5NDllYjc0MzY2ZTZmMDI1YjJmYzRmODA5YWVjNmYyZjIxYjJiMmZmMDBmNTZhMWU1Iiwic2Vxbm8iOjE0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQPsG/Id7/X1wcm9Aw8z+ji9wodSWt3PpCQvfrjJQlggevteXDiUm+nMSzuUkV91IavkN2+HwQZJuUTKFTzniTAqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCyPZLfABOn4nIWSmiViPk+z7I50TP7QbSLxuN0gLjN4qN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tingeber
+
+==================================================================
