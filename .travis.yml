@@ -5,7 +5,7 @@ env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 addons:
-  ssh_known_hosts: kjaermaxi.me
+  ssh_known_hosts: tin.fyi
 before_install:
   - bash _scripts/install.sh
 script:
