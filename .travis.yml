@@ -1,0 +1,15 @@
+language: ruby
+rvm:
+  - 2.1
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+addons:
+  ssh_known_hosts: kjaermaxi.me
+before_install:
+  - bash _scripts/install.sh
+script:
+  - bash _scripts/build.sh
+#  - bash _scripts/test.sh
+after_success:
+  - bash _scripts/deploy.sh

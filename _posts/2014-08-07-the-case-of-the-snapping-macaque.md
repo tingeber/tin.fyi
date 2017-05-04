@@ -1,6 +1,8 @@
 ---
 title: The Case of the Snapping Macaque
 tags: copyright
+header:
+  teaser: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Macaca_nigra_self-portrait_large.jpg"
 ---
 
 There’s a story doing the summer internet rounds that’s tickling so many brain receptors I need to vent it out. And it’s all about this girl:

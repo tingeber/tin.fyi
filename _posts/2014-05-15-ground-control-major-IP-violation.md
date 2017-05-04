@@ -1,5 +1,8 @@
 ---
 title: Ground control to major IP violation
+header:
+  teaser: "assets/images/jsc2011e203354.jpg"
+tags: copyright
 ---
 
 {% include figure image_path="/assets/images/jsc2011e203354.jpg" alt="Chris Hadfield" caption="[NASA/Robert Markowitz](http://spaceflight.nasa.gov/gallery/images/station/crew-34/html/jsc2011e203354.html)" %}
