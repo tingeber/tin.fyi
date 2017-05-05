@@ -19,5 +19,9 @@
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
   {% endif %}
+    <div class="sidebar-buttons">
+      <a class="btn btn--small btn--inverse" href="about {{ absolute_url }}">About me</a>
+      <a class="btn btn--small btn--inverse" onclick="Calendly.showPopupWidget('https://calendly.com/tinfyi');return false;" href="#">Let's talk</a>
+    </div>
   </div>
 {% endif %}

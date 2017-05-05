@@ -17,12 +17,14 @@
   {% endif %}
 
   <div class="author__content">
+    <a class="take-me-home" href="{{ '/' | absolute_url }}">
     <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
     {% if author.bio %}
       <p class="author__bio" itemprop="description">
         {{ author.bio }}
       </p>
     {% endif %}
+  </a>
   </div>
 
   <div class="author__urls-wrapper">
@@ -46,15 +48,7 @@
         <li>
           <a href="mailto:{{ author.email }}">
             <meta itemprop="email" content="{{ author.email }}" />
-            <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.keybase %}
-        <li>
-          <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase
+            <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ author.email }}
           </a>
         </li>
       {% endif %}
@@ -231,6 +225,14 @@
         <li>
           <a href="https://vine.co/u/{{ author.vine }}" itemprop="sameAs">
             <i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.keybase %}
+        <li>
+          <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-key" aria-hidden="true"></i> 07D1 6F1E 5FE4 2EA1
           </a>
         </li>
       {% endif %}

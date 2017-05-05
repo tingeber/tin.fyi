@@ -2,7 +2,9 @@
 title: Ground control to major IP violation
 header:
   teaser: "assets/images/jsc2011e203354.jpg"
+image: "assets/images/jsc2011e203354.jpg"
 tags: copyright
+excerpt: A couple of days ago, Canadian astronaut Chris Hadfield — pictured here while winning "happiest man alive" contest — had to remove his cover of David Bowies' "Space Oddity" from the Youtubes. It seems that "Bowies' people" (and here I'm imagining a rugby team of slick, black-haired, business-attired white males in their forties on bluetooths or those big GSM phones from before you were even born) only gave Hadfield permission to post the song online for one (1) year.
 ---
 
 {% include figure image_path="/assets/images/jsc2011e203354.jpg" alt="Chris Hadfield" caption="[NASA/Robert Markowitz](http://spaceflight.nasa.gov/gallery/images/station/crew-34/html/jsc2011e203354.html)" %}

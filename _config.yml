@@ -9,9 +9,9 @@
 locale                   : "en"
 title                    : "tin.fyi"
 title_separator          : "|"
-name                     : "Tin Geber"
-description              : ""
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "tin.fyi"
+description              : "unpacking complexity"
+url                      : "https://tin.fyi"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : tingeber/tin.fyi
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -65,7 +65,7 @@ og_image                 : # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : "Tin Geber" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tin Geber"
+  name             : "tin.fyi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "unpacking complexity"
   location         :
   email            : "me@tin.fyi"
-  uri              : "http://tin.fyi"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -184,6 +184,9 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-archives
+  - jekyll-auto-image
+  - jekyll-twitter-plugin
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -204,23 +207,25 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
+
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
+
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
@@ -244,3 +249,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

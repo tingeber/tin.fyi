@@ -4,8 +4,8 @@
 
 html {
   /* sticky footer fix */
-  position: relative;
-  min-height: 100%;
+  position: relative !important;
+  min-height: 100% !important;
 }
 
 body {
