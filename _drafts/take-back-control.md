@@ -26,10 +26,10 @@ We let white, rich, western men exclusively control the production of algorithms
 
 It doesn’t have to be this way. We can demand control. But first we have to understand we lost it. We have to start understanding that there’s a veil of algorithmic mystery inches from our eyes. We have become used to relying on the perceived credibility of algorithmically-driven platforms to provide fact-checked and truthful information. Well now at least it’s clear nothing of the sort is actually happening.
 
-Give money to journalists
-Demand quality
-Common claims need common proof. Extraordinary claims need extraordinary proof
-If it’s too good to be true, it’s not true
-In most cases, 10 seconds on Google is all the fact-checking you need
-Don’t trust anyone
-Build a bomb shelter
+- Give money to journalists
+- Demand quality
+- Common claims need common proof. Extraordinary claims need extraordinary proof
+- If it’s too good to be true, it’s not true
+- In most cases, 10 seconds on Google is all the fact-checking you need
+- Don’t trust anyone
+- Build a bomb shelter
