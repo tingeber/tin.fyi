@@ -92,7 +92,7 @@
   }
 
   @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
+    padding-right: $right-sidebar-width;
   }
 
   .page__meta {

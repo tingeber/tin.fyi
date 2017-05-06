@@ -6,14 +6,16 @@ image: /assets/images/tg-avatar.jpg
 
 {% include figure image_path="/assets/images/tg-avatar.jpg" alt="Tin Geber mugshot" class="half" %}
 
-> Creative strategist, technologist and project manager with experience in human-centered program and service design, project implementation and workshop facilitation. Focused on supporting social change organisations to make the most of data and technology. Extensive international experience with a broad range of thematic areas across the development spectrum.
 
+
+
+> Creative strategist, designer, and technologist, with experience in human-centered program and service design, project implementation, and workshop facilitation. Extensive international experience with a broad range of thematic areas across the development spectrum.
 
 ## Professional Experience
 
 ### Design and Technology Lead – The Engine Room
 
-Distributed,	2014 - Present
+Distributed,	2014 - 2017
 
 - Manages a team of up to 10 staff and contractors, leading The Engine Room’s direct support activities, developing organisational strategy, implementation of technology and human-centered design processes
 - Core member of the Responsible Data Program team since its inception:

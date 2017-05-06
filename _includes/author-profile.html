@@ -27,6 +27,13 @@
   </a>
   </div>
 
+  <div class="sidebar-buttons">
+    <a class="btn btn--small btn--inverse" href="about {{ absolute_url }}">About me</a>
+  </div>
+  <div class="sidebar-buttons">
+    <a class="btn btn--small btn--inverse" onclick="Calendly.showPopupWidget('https://calendly.com/tinfyi');return false;" href="#">Let's talk</a>
+  </div>
+
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
@@ -44,6 +51,10 @@
         </li>
       {% endif %}
 
+      <li>
+        <h3>email</h3>
+      </li>
+
       {% if author.email %}
         <li>
           <a href="mailto:{{ author.email }}">
@@ -52,6 +63,18 @@
           </a>
         </li>
       {% endif %}
+
+      {% if author.keybase %}
+        <li>
+          <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-key" aria-hidden="true"></i> 07D1 6F1E 5FE4 2EA1
+          </a>
+        </li>
+      {% endif %}
+
+        <li>
+          <h3>@tingeber</h3>
+        </li>
 
       {% if author.twitter %}
         <li>
@@ -229,13 +252,6 @@
         </li>
       {% endif %}
 
-      {% if author.keybase %}
-        <li>
-          <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-key" aria-hidden="true"></i> 07D1 6F1E 5FE4 2EA1
-          </a>
-        </li>
-      {% endif %}
 
       {% include author-profile-custom-links.html %}
     </ul>
