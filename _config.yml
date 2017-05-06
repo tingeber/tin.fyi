@@ -8,13 +8,13 @@
 # Site Settings
 locale                   : "en"
 title                    : "tin.fyi"
-title_separator          : "|"
+title_separator          : " | "
 name                     : "tin.fyi"
-description              : "unpacking complexity"
+description              : "I am Tin Geber. I write about technology, art, algorithms, and activism; I use the Oxford comma."
 url                      : "https://tin.fyi"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : tingeber/tin.fyi
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "https://source.unsplash.com/featured/?bokeh" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -60,13 +60,18 @@ facebook:
   username               : tingeber
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/tin.fyi.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : "Tin Geber" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/tingeber"
+    - "https://www.facebook.com/tingeber"
+    - "https://instagram.com/tingeber"
+    - "https://github.com/tingeber"
+    - "https://www.linkedin.com/in/tingeber"
 
 # Analytics
 analytics:
