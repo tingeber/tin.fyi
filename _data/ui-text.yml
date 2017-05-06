@@ -22,7 +22,7 @@ en: &DEFAULT_EN
   comments_title             : "Comments"
   more_label                 : "Learn More"
   related_label              : "You May Also Enjoy"
-  follow_label               : "Follow:"
+  follow_label               : "follow:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
@@ -629,7 +629,7 @@ gr: &DEFAULT_GR
   pagination_next            : "Επόμενo"
   breadcrumb_home_label      : "Κεντρική"
   breadcrumb_separator       : "/"
-  menu_label                 : 
+  menu_label                 :
   toc_label                  : "Πίνακας Περιεχομένων"
   ext_link_label             : "Εξωτερικός Σύνδεσμος"
   less_than                  : "Λιγότερο από"
@@ -663,7 +663,7 @@ gr: &DEFAULT_GR
   loading_label              : "Φόρτωση..."
 gr-GR:
   <<: *DEFAULT_GR
-  
+
 # Another locale
 # --------------
 #

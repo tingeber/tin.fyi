@@ -28,14 +28,14 @@
   </div>
 
   <div class="sidebar-buttons">
-    <a class="btn btn--small btn--inverse" href="about {{ absolute_url }}">About me</a>
+    <a class="btn btn--small btn--inverse" href="{{ 'about' | absolute_url }}">about<span> me</span></a>
   </div>
   <div class="sidebar-buttons">
-    <a class="btn btn--small btn--inverse" onclick="Calendly.showPopupWidget('https://calendly.com/tinfyi');return false;" href="#">Let's talk</a>
+    <a class="btn btn--small btn--inverse" onclick="Calendly.showPopupWidget('https://calendly.com/tinfyi');return false;" href="#"><span>let's </span>talk</a>
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
+    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "follow" }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
