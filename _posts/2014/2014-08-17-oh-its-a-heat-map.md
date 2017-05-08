@@ -1,9 +1,9 @@
 ---
 title: Oh it's a heat map. I get it.
 header:
-  image: /assets/images/heatmap.jpg
+  image: "/assets/images/heatmap.jpg"
   caption: "[**NASA**](https://www.nasa.gov/centers/johnson/home/phoenix_heatwaves_feature.html)"
-  teaser: "assets/images/heatmap.jpg"
+  teaser: "/assets/images/heatmap.jpg"
 ---
 
 I was just reading an article on the neuroscience of creativity in the Atlantic and came upon an image comparison of two brains.

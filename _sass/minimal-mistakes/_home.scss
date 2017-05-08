@@ -3,7 +3,11 @@
 body.layout--home {
   .archive__item-teaser {
     margin-bottom: 8px;
-    max-height: 500px;
+    max-height: 250px;
+
+    @include breakpoint($large) {
+      max-height: 500px;
+    }
   }
 }
 
@@ -23,4 +27,12 @@ body.layout--home .archive__item:hover {
   .archive__item-title {
     text-decoration: none;
   }
+}
+
+.notice-card {
+  border-radius: 2px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  padding: 1em;
+  margin-bottom: 40px;
+  background-color: #fff;
 }

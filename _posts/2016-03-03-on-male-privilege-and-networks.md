@@ -3,6 +3,7 @@ title: On male privilege and networks
 excerpt: "A friend of mine asked me to share this story with you. And by “you” I mean “people that look like me”, or “men”. Specifically, men who don’t recognize that male privilege is an issue that needs to be actively fought against, and that men need to make and leave space for women because of how incredibly much the deck is stacked in favor of the Y chromosome."
 header:
   teaser: "/assets/images/here-be-dragons.jpeg"
+  image: "/assets/images/here-be-dragons.jpeg"
 tags:
 - tech
 - feminism
@@ -11,7 +12,7 @@ tags:
 ---
 
 [Originally posted on Medium](https://medium.com/@tingeber/on-male-privilege-and-networks-437a1ad1e51e) on 3rd March 2016
-{: .notice}
+{: .notice-card}
 
 A friend of mine asked me to share this story with you. And by “you” I mean “people that look like me”, or “men”. Specifically, men who don’t recognize that male privilege is an issue that needs to be actively fought against, and that men need to make and leave space for women because of how incredibly much the deck is stacked in favor of the Y chromosome.
 
@@ -82,4 +83,4 @@ And then, at one point, a funny thing happened: _I don’t need to actively try 
 
 {% endcapture %}
 
-<div class="notice">{{ notice-lastpara | markdownify }}</div>
+<div class="notice-card">{{ notice-lastpara | markdownify }}</div>
