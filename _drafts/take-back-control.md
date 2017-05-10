@@ -9,7 +9,7 @@ Now, this is a phenomenon that used to scare the beagles out of me — but i
 
 Then Donald Trump happened.
 
-Now there are lots of stories out there on how Facebook ruined it all for us. In my opinion, that is completely true. Simple, on the fly fact checking is not only possible, it’s easy to implement. But it doesn’t bring in clicks. Fake news are shared a lot; removing them from the platform would have caused shareholders to lose lots of moneymaking eyeballs. So Facebook hid behind a “neutrality of algorithms” rhetoric to justify a fundamentally immoral pollution of public opinion. And I will bet my Twitter follower count that Facebook already had solutions to the fake news problem, but it was never in their interest to turn them on.
+There are lots of stories out there on how Facebook ruined it all for us. In my opinion, that is completely true. Simple, on the fly fact checking is not only possible, it’s easy to implement. But it doesn’t bring in clicks. Fake news are shared a lot; removing them from the platform would have caused shareholders to lose lots of moneymaking eyeballs. So Facebook hid behind a “neutrality of algorithms” rhetoric to justify a fundamentally immoral pollution of public opinion. And I will bet my Twitter follower count that Facebook already had solutions to the fake news problem, but it was never in their interest to turn them on.
 
 There’s a lot of (academic, theoretical, exploratory) research about the ethical implication of algorithmic decision-making. The main focus though usually stays on the loss of choice, or at most on human bias interwoven in the algorithmic pattern. But the real danger, in the end, was corporate greed that was given the keys to the cognitive kingdom. In a race to the conceptual bottom, the most common social media platforms like Facebook reduce attention spans and engagement times with the only goal of maximising profit. And everyone plays along because that is the new normal. Like CBS chairman Les Moonves, who famously said that Trump is bad for America, but “[damn good for business](http://fortune.com/2016/03/01/les-moonves-cbs-trump/).”
 
@@ -25,6 +25,10 @@ We let white, rich, western men exclusively control the production of algorithms
 ## We have to take back control 
 
 It doesn’t have to be this way. We can demand control. But first we have to understand we lost it. We have to start understanding that there’s a veil of algorithmic mystery inches from our eyes. We have become used to relying on the perceived credibility of algorithmically-driven platforms to provide fact-checked and truthful information. Well now at least it’s clear nothing of the sort is actually happening.
+
+### Give money to journalists
+
+Powerful people controlling means of communication is a phenomenon as old as humanity.
 
 - Give money to journalists
 - Demand quality
