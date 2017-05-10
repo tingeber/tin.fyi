@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "tin.fyi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "unpacking complexity"
+  bio              : # "unpacking complexity"
   location         :
   email            : "me@tin.fyi"
   uri              :
