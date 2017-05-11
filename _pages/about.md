@@ -8,9 +8,35 @@ image: /assets/images/tg-avatar.jpg
 
 
 
-
 Creative strategist, designer, and technologist, with experience in human-centered program and service design, project implementation, and workshop facilitation. Extensive international experience with a broad range of thematic areas across the development spectrum.
 {: .notice-card}
+
+Hello, wanderer.  My name is Tin, and this is what I know about myself.
+
+I have been working on the intersection of technology, art and activism for most of the last decade. I developed [role-playing games for human rights activists](https://www.theengineroom.org/from-a-button-to-a-pact-scaling-security-through-design/); collaborated on [augmented reality transmedia projects](https://tribecafilminstitute.org/films/detail/roll_red_roll); and helped NGOs around the world to develop creative ways to combine technology and human rights (such as [online platforms exposing land grabbing](http://landmatrix.org/en/), [microtasking tools for human rights](https://decoders.amnesty.org/), and even [tools about tools](https://alidade.tech/)). I prepared, coordinated, and led more than a hundred participatory events with up to 200 participants.
+
+My previous home was [The Engine Room](https://www.theengineroom.org/) — my future home will be an [MA in Computational Arts at Goldsmiths University](http://www.gold.ac.uk/pg/ma-computational-arts/). I’m currently enjoying my interstitial state and the opportunities to work on exciting projects.
+
+My digital door is always open — book me for a call if you:
+
+- Want to meet and chat
+- Need **strategic planning** support to turn a great idea into a concrete project. I love giving shape to amorphous blobs, dealing with barriers, fishing for unknown unknowns, and recognizing patterns
+- Have an event in need of **facilitation**: participatory agenda building, narrative crafting, leading, preparing your team to lead autonomously
+- Need **human-centered design** support in project implementation: audience definition, exposing and testing assumptions
+Are excited about experiential learning: games, trainings, role playing
+
+<!-- <div class="notice-card"> -->
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget notice-card" data-url="https://calendly.com/tinfyi" style="min-width:320px;height:650px;"></div>
+<script type="text/javascript" src="https://calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
+<!-- </div> -->
+
+## What drives me
+
+The relationship between humans and technology. More specifically, the cognitive abyss between the tools we use every day and our understanding of them. Tools define humanity, and essentially represent an extension of ourselves. However, we’re not as capable of deeply understanding modern tools, as we were in the past. A machine cog is a concept that is easy to grasp: recursion isn’t. Yet everyday on average we use more tools driven by recursive loops, than those driven by cogs (unless you’re Charlie Chaplin in Modern Times, in which case omg I feel for you). This imbalance can cause inequality, enable control, fuel extremism, exacerbate solitude. I wish to interrogate how humans and machines interact, and find ways to give humans tools for grasping, understanding, subverting and ultimately owning the obscure principles that guide machines to make  decisions that affect society.
+
+# Long CV
 
 ## Professional Experience
 
@@ -18,7 +44,7 @@ Creative strategist, designer, and technologist, with experience in human-center
 
 Distributed,	2014 - 2017
 
-- Manages a team of up to 10 staff and contractors, leading The Engine Room’s direct support activities, developing organisational strategy, implementation of technology and human-centered design processes
+- Managed a team of up to 10 staff and contractors, leading The Engine Room’s direct support activities, developing organisational strategy, implementation of technology and human-centered design processes
 - Core member of the [Responsible Data Program](https://responsibledata.io/) team since its inception
 - Contributed to conceptualization of the Responsible Data rhetorical framework
 - Co-author of the [Responsible Data Handbook](https://responsibledata.io/resources/handbook/)
