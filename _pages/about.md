@@ -17,13 +17,13 @@ I have been working on the intersection of technology, art and activism for most
 
 My previous home was [The Engine Room](https://www.theengineroom.org/) — my future home will be an [MA in Computational Arts at Goldsmiths University](http://www.gold.ac.uk/pg/ma-computational-arts/). I’m currently enjoying my interstitial state and the opportunities to work on exciting projects.
 
-My digital door is always open — book me for a call if you:
+My digital door is always open — book a call with me if you:
 
 - Want to meet and chat
 - Need **strategic planning** support to turn a great idea into a concrete project. I love giving shape to amorphous blobs, dealing with barriers, fishing for unknown unknowns, and recognizing patterns
 - Have an event in need of **facilitation**: participatory agenda building, narrative crafting, leading, preparing your team to lead autonomously
 - Need **human-centered design** support in project implementation: audience definition, exposing and testing assumptions
-Are excited about experiential learning: games, trainings, role playing
+- Are excited about **experiential learning**: games, trainings, role playing
 
 <!-- <div class="notice-card"> -->
 <!-- Calendly inline widget begin -->
