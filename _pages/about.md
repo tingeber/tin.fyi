@@ -1,29 +1,38 @@
 ---
-title: "About me"
+title: "Tin Geber"
 permalink: /about/
-image: /assets/images/tg-avatar.jpg
+excerpt: I specialise in **creative project design** for human rights and transparency organisations, with a focus on **appropriate technology** and **human-system magic**.
+header:
+  overlay_image: /assets/images/about-header.jpg
 ---
+ 
+## <i class="fa fa-bullseye" aria-hidden="true"></i> My focus
 
-{% include figure image_path="/assets/images/tg-avatar.jpg" alt="Tin Geber mugshot" class="half" %}
+**Appropriate technology**: tech is a big part of my work; through the years I honed an understanding of what appropriate technology means for organisations with radically different sizes, goals and resources. There is no boilerplate approach that will work each time, because there are no boilerplate problems.
+
+I help with understanding which approach works best for _that_ project, in _that_ context, with _that_ group of humans.  
+
+**Human-system magic:** Each group of humans is larger than the sum of themselves —  together they are a unique system. People’s strengths need the right environment to shine; organising and inspiring teams for human-system magic can provide unexpected solutions and serendipity.
+
+I help identify what makes that human-system unique, and how to design projects so that the same uniqueness is at its core.   
 
 
+## <i class="fa fa-wrench" aria-hidden="true"></i> My Toolbox
 
-Creative strategist, designer, and technologist, with experience in human-centered program and service design, project implementation, and workshop facilitation. Extensive international experience with a broad range of thematic areas across the development spectrum.
-{: .notice-card}
+**Human-centered design principles:** stakeholders, audiences, users — whatever you call them, they are the humans you are trying to reach. The Human-centered design approach makes sure they are involved from the outset. Assumption/validation loops, iterative creation, prototyping, and development timelines.
 
-Hello, wanderer.  My name is Tin, and this is what I know about myself.
+**Peer events:** the best way to achieve a shared vision is to build the vision together. I facilitate peer workshops, blurring the line between participants and experts. Experiential learning, adult learning, resource/content co-creation.
 
-I have been working on the intersection of technology, art and activism for most of the last decade. I developed [role-playing games for human rights activists](https://www.theengineroom.org/from-a-button-to-a-pact-scaling-security-through-design/); collaborated on [augmented reality transmedia projects](https://tribecafilminstitute.org/films/detail/roll_red_roll); and helped NGOs around the world to develop creative ways to combine technology and human rights (such as [online platforms exposing land grabbing](http://landmatrix.org/en/), [microtasking tools for human rights](https://decoders.amnesty.org/), and even [tools about tools](https://alidade.tech/)). I prepared, coordinated, and led more than a hundred participatory events with up to 200 participants.
+**Project inception sprints:** taking a fuzzy yet great idea into a concrete, actionable action plan. Vision for success, audience mapping, team composition, resource analysis.
 
-My previous home was [The Engine Room](https://www.theengineroom.org/) — my future home will be an [MA in Computational Arts at Goldsmiths University](http://www.gold.ac.uk/pg/ma-computational-arts/). I’m currently enjoying my interstitial state and the opportunities to work on exciting projects.
+**Project clinics:** tailored troubleshooting for existing projects, starting at situational analysis and going all the way up to organisational change.
 
-My digital door is always open — book a call with me if you:
+**Targeted advice:** sometimes a small nudge at the right time can have long-lasting influence. Tactical course corrections, integrating new crucial information, identifying pivot opportunities.
 
-- Want to meet and chat
-- Need **strategic planning** support to turn a great idea into a concrete project. I love giving shape to amorphous blobs, dealing with barriers, fishing for unknown unknowns, and recognizing patterns
-- Have an event in need of **facilitation**: participatory agenda building, narrative crafting, leading, preparing your team to lead autonomously
-- Need **human-centered design** support in project implementation: audience definition, exposing and testing assumptions
-- Are excited about **experiential learning**: games, trainings, role playing
+**Quick interventions:** pro-bono emergency repairs for wobbly projects. My digital door is always open.
+
+
+## <i class="fa fa-phone" aria-hidden="true"></i> Book a call
 
 <!-- <div class="notice-card"> -->
 <!-- Calendly inline widget begin -->
@@ -32,11 +41,27 @@ My digital door is always open — book a call with me if you:
 <!-- Calendly inline widget end -->
 <!-- </div> -->
 
-## What drives me
+---
+
+## <i class="fa fa-coffee" aria-hidden="true"></i> What drives me
 
 The relationship between humans and technology. More specifically, the cognitive abyss between the tools we use every day and our understanding of them. Tools define humanity, and essentially represent an extension of ourselves. However, we’re not as capable of deeply understanding modern tools, as we were in the past. A machine cog is a concept that is easy to grasp: recursion isn’t. Yet everyday on average we use more tools driven by recursive loops, than those driven by cogs (unless you’re Charlie Chaplin in Modern Times, in which case omg I feel for you). This imbalance can cause inequality, enable control, fuel extremism, exacerbate solitude. I wish to interrogate how humans and machines interact, and find ways to give humans tools for grasping, understanding, subverting and ultimately owning the obscure principles that guide machines to make  decisions that affect society.
 
-# Long CV
+-----
+
+# Long CV and bio - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](/assets/files/tin-geber-cv.pdf)
+
+## Copy-pasteable bio and mugshot
+
+[![Tin Geber mugshot](/assets/images/tg-avatar.jpg)](/assets/images/tingeber-mugshot-hirez.jpg){: .align-left}
+
+Creative strategist, designer, and technologist, with experience in human-centered program and service design, project implementation, and workshop facilitation. Extensive international experience with a broad range of thematic areas across the development spectrum.
+{: .notice-card}
+
+Tin has been working on the intersection of technology, art and activism for most of the last decade. In his previous role as Design and Tech Lead for [The Engine Room](https://www.theengineroom.org), he developed [role-playing games for human rights activists](https://www.theengineroom.org/from-a-button-to-a-pact-scaling-security-through-design/); collaborated on [augmented reality transmedia projects](https://tribecafilminstitute.org/films/detail/roll_red_roll); and helped NGOs around the world to develop creative ways to combine technology and human rights (such as [online platforms exposing land grabbing](http://landmatrix.org/en/), [microtasking tools for human rights](https://decoders.amnesty.org/), and even [tools about tools](https://alidade.tech/)).
+
+Tin has a BA in Media Sciences, and is currently pursuing an [MA in Computational Arts at Goldsmiths University](http://www.gold.ac.uk/pg/ma-computational-arts/).
+
 
 ## Professional Experience
 
