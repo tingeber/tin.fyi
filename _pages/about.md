@@ -1,7 +1,7 @@
 ---
 title: "Tin Geber"
 permalink: /about/
-excerpt: I specialise in **creative project design** for human rights and transparency organisations, with a focus on **appropriate technology** and **human-system magic**.
+excerpt: I specialise in **creative project design** for human rights and transparency organisations, with a focus on **appropriate technology** and **human systems**.
 header:
   overlay_image: /assets/images/about-header.jpg
 ---
@@ -12,9 +12,9 @@ header:
 
 I help with understanding which approach works best for _that_ project, in _that_ context, with _that_ group of humans.  
 
-**Human-system magic:** Each group of humans is larger than the sum of themselves —  together they are a unique system. People’s strengths need the right environment to shine; organising and inspiring teams for human-system magic can provide unexpected solutions and serendipity.
+**Human systems:** Each group of humans is larger than the sum of themselves. Together they form a unique system with its own rules, abilities, and dynamics. People’s strengths need the right environment to shine; organising and inspiring teams for human-system magic can provide unexpected solutions and serendipity.
 
-I help identify what makes that human-system unique, and how to design projects so that the same uniqueness is at its core.   
+I help identify what makes that human system unique, to design projects with that same uniqueness at its core.   
 
 
 ## <i class="fa fa-wrench" aria-hidden="true"></i> My Toolbox
@@ -29,7 +29,7 @@ I help identify what makes that human-system unique, and how to design projects 
 
 **Targeted advice:** sometimes a small nudge at the right time can have long-lasting influence. Tactical course corrections, integrating new crucial information, identifying pivot opportunities.
 
-**Quick interventions:** pro-bono emergency repairs for wobbly projects. My digital door is always open.
+**Quick interventions:** pro-bono emergency repairs for wobbly projects. My digital door is always open. Don't worry if you're just at the ideation stage, find yourself in a crunch at the final stages, or anywhere in between — I am here to help.
 
 
 ## <i class="fa fa-phone" aria-hidden="true"></i> Book a call
@@ -45,7 +45,7 @@ I help identify what makes that human-system unique, and how to design projects 
 
 ## <i class="fa fa-coffee" aria-hidden="true"></i> What drives me
 
-The relationship between humans and technology. More specifically, the cognitive abyss between the tools we use every day and our understanding of them. Tools define humanity, and essentially represent an extension of ourselves. However, we’re not as capable of deeply understanding modern tools, as we were in the past. A machine cog is a concept that is easy to grasp: recursion isn’t. Yet everyday on average we use more tools driven by recursive loops, than those driven by cogs (unless you’re Charlie Chaplin in Modern Times, in which case omg I feel for you). This imbalance can cause inequality, enable control, fuel extremism, exacerbate solitude. I wish to interrogate how humans and machines interact, and find ways to give humans tools for grasping, understanding, subverting and ultimately owning the obscure principles that guide machines to make  decisions that affect society.
+The relationship between humans and technology. More specifically, the cognitive abyss between the tools we use every day and our understanding of them. Tools define humanity, and essentially represent an extension of ourselves. However, we’re not as capable of deeply understanding modern tools, as we were in the past. A machine cog is a concept that is easy to grasp: recursion isn’t. Yet everyday on average we use more tools driven by recursive loops, than those driven by cogs (unless you’re Charlie Chaplin in Modern Times). [This imbalance can cause inequality, take away control, fuel extremism, exacerbate solitude](https://tin.fyi/take-back-control/). I wish to interrogate how humans and machines interact, and find ways to give humans tools for grasping, understanding, subverting and ultimately owning the obscure principles that guide machines to make  decisions that affect society.
 
 -----
 
