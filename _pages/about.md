@@ -14,7 +14,7 @@ I help with understanding which approach works best for _that_ project, in _that
 
 **Human systems:** Each group of humans is larger than the sum of themselves. Together they form a unique system with its own rules, abilities, and dynamics. People’s strengths need the right environment to shine; organising and inspiring teams for human-system magic can provide unexpected solutions and serendipity.
 
-I help identify what makes that human system unique, to design projects with that same uniqueness at its core.   
+I help identify what makes that human system unique, to design projects with that same uniqueness at its core.
 
 
 ## <i class="fa fa-wrench" aria-hidden="true"></i> My Toolbox
