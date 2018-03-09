@@ -19,24 +19,38 @@ I help identify what makes that human system unique, to design projects with tha
 
 ## <i class="fa fa-wrench" aria-hidden="true"></i> My Toolbox
 
-**Human-centered design principles:** stakeholders, audiences, users — whatever you call them, they are the humans you are trying to reach. The Human-centered design approach makes sure they are involved from the outset. Assumption/validation loops, iterative creation, prototyping, and development timelines.
+**Human-centered design principles:** stakeholders, audiences, users — whatever you call them, they are the humans you are trying to reach. The human-centered design approach makes sure they are involved from the outset.   
+`assumption/validation loops`    
+`iterative creation`    
+`prototyping`   
+`development timelines`
 
-**Peer events:** the best way to achieve a shared vision is to build the vision together. I facilitate peer workshops, blurring the line between participants and experts. Experiential learning, adult learning, resource/content co-creation.
+**Peer events:** the best way to achieve a shared vision is to build the vision together. I facilitate peer workshops, blurring the line between participants and experts.   
+`experiential learning`   
+`adult learning`   
+`resource/content co-creation`
 
-**Project inception sprints:** taking a fuzzy yet great idea into a concrete, actionable action plan. Vision for success, audience mapping, team composition, resource analysis.
+**Project inception sprints:** taking a fuzzy yet great idea into a concrete, actionable action plan.   
+`vision for success`  
+`audience mapping`   
+`team composition`   
+`resource analysis`
 
-**Project clinics:** tailored troubleshooting for existing projects, starting at situational analysis and going all the way up to organisational change.
+**Project clinics:** tailored troubleshooting for existing projects, starting at situational analysis and going all the way up to organisational change. Sometimes a small nudge at the right time can have long-lasting influence.   
+`tactical course corrections`   
+`integrating new information`   
+`identifying pivot opportunities`
 
-**Targeted advice:** sometimes a small nudge at the right time can have long-lasting influence. Tactical course corrections, integrating new crucial information, identifying pivot opportunities.
-
-**Quick interventions:** pro-bono emergency repairs for wobbly projects. My digital door is always open. Don't worry if you're just at the ideation stage, find yourself in a crunch at the final stages, or anywhere in between — I am here to help.
 
 
-## <i class="fa fa-phone" aria-hidden="true"></i> Book a call
+## <i class="fa fa-phone" aria-hidden="true"></i> Quick interventions
+
+Emergency repairs for wobbly projects. Book a call for a pro-bono troubleshooting session — my digital door is always open. Don't worry if you're just at the ideation stage, find yourself in a crunch at the final stages, or anywhere in between — I am here to help.
+
 
 <!-- <div class="notice-card"> -->
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget notice-card" data-url="https://calendly.com/tinfyi" style="min-width:320px;height:650px;"></div>
+<div class="calendly-inline-widget notice-card" data-url="https://calendly.com/tinfyi/quick-intervention" style="min-width:320px;height:550px;"></div>
 <script type="text/javascript" src="https://calendly.com/assets/external/widget.js"></script>
 <!-- Calendly inline widget end -->
 <!-- </div> -->
@@ -95,6 +109,10 @@ Rome, Italy	2012-2014
 Argentina, Bosnia and Herzegovina, Croatia, Hungary, Kenya, Kosovo, Italy, Macedonia, Mexico, Montenegro, Nepal, Serbia, Tajikistan, Tanzania, UK, USA
 
 ## Education
+
+### Goldsmiths University, London, UK
+
+- 2018 MA candidate in [Computational Arts](https://www.gold.ac.uk/pg/ma-computational-arts/)
 
 ### Universita’ La Sapienza	Rome, Italy
 
