@@ -69,12 +69,12 @@ The relationship between humans and technology. More specifically, the cognitive
 
 [![Tin Geber mugshot](/assets/images/tg-avatar.jpg)](/assets/images/tingeber-mugshot-hirez.jpg){: .align-left}
 
-Creative strategist, designer, and technologist, with experience in human-centered program and service design, project implementation, and workshop facilitation. Extensive international experience with a broad range of thematic areas across the development spectrum.
+Computational artist and creative strategist with experience in human-centered program and service design, project implementation, and workshop facilitation. Extensive international experience with a broad range of thematic areas across the development spectrum.
 {: .notice-card}
 
 Tin has been working on the intersection of technology, art and activism for most of the last decade. In his previous role as Design and Tech Lead for [The Engine Room](https://www.theengineroom.org), he developed [role-playing games for human rights activists](https://www.theengineroom.org/from-a-button-to-a-pact-scaling-security-through-design/); collaborated on [augmented reality transmedia projects](https://tribecafilminstitute.org/films/detail/roll_red_roll); and helped NGOs around the world to develop creative ways to combine technology and human rights (such as [online platforms exposing land grabbing](http://landmatrix.org/en/), [microtasking tools for human rights](https://decoders.amnesty.org/), and even [tools about tools](https://alidade.tech/)).
 
-Tin has a BA in Media Sciences, and is currently pursuing an [MA in Computational Arts at Goldsmiths University](http://www.gold.ac.uk/pg/ma-computational-arts/).
+Tin has a BA in Media Sciences, and an [MA in Computational Arts](http://www.gold.ac.uk/pg/ma-computational-arts/).
 
 
 ## Professional Experience
