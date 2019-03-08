@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "tin.fyi"
 title_separator          : " | "
 name                     : "tin.fyi"
-description              : "I am Tin Geber. I write about technology, art, algorithms, and activism; I use the Oxford comma."
+description              : "I am Tin Geber. I write about technology, art, algorithms, and activism."
 url                      : "https://tin.fyi"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : tingeber/tin.fyi
