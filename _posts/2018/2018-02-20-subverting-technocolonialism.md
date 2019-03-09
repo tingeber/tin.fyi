@@ -1,5 +1,5 @@
 ---
-title: "Subverting techno-colonialism through re-situated technological artistic creation"
+title: "Subverting techno-colonialism"
 header:
   teaser: "/assets/images/Vodunaut-001(Hyperfinder).jpg"
 excerpt: "The international aid sector today struggles to shed vestiges of Western colonialist worldviews and tendencies — and, arguably, actively perpetuates the same imperialist power dynamics that were in part or in sum responsible for creating the problems it aims to solve..."
