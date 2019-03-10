@@ -6,8 +6,7 @@ excerpt: "this is a quick test to see *if we can make this thing work*. i’m tr
 
 ## a title example
 "
-tags:
-  - test tag,another test tag,magic
+tags: [test tag,another test tag,magic]
 ---
 
 {% include figure image_path="/assets/images/paper-planes.jpg" alt="paper-planes" %}
