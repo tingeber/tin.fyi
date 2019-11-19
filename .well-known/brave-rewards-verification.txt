@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tin.fyi
+Token: 46cc45e95026e8b787ad7306d41f0069f5e762645cf62e09a1f7440c6224c00e
