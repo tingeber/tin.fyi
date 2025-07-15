@@ -55,7 +55,7 @@ yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username: tingeber
+  username:
 facebook:
   username:
   app_id:
@@ -67,8 +67,7 @@ social:
   type: # Person or Organization (defaults to Person)
   name: "Tin Geber" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/tingeber"
-    - "https://www.facebook.com/tingeber"
+    - "https://bsky.app/profile/tin.fyi"
     - "https://instagram.com/tingeber"
     - "https://github.com/tingeber"
     - "https://www.linkedin.com/in/tingeber"
@@ -99,13 +98,13 @@ author:
   instagram: "tingeber"
   bluesky: "tin.fyi"
   lastfm:
-  linkedin:
+  linkedin: "tingeber"
   pinterest:
   soundcloud:
   stackoverflow: # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam:
   tumblr:
-  twitter: "tingeber"
+  twitter:
   vine:
   weibo:
   xing:
@@ -188,6 +187,7 @@ gems:
   - jekyll-archives
   - jekyll-auto-image
   - jekyll-twitter-plugin
+  - jekyll-simple-icons
 
 # mimic GitHub Pages with --safe
 whitelist:

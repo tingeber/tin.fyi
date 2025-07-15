@@ -81,20 +81,23 @@
         <h3>@tingeber</h3>
       </li>
 
-      {% if author.twitter %}
+
+
+      {% if author.bluesky %}
       <li>
-        <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
-          <i class="fab fa-twitter" aria-hidden="true"></i> Twitter
+        <a href="https://bsky.app/profile/{{ author.bluesky }}" itemprop="sameAs">
+          <span style="width: 16px; height: 16px; display: inline-block;"> {% simpleicons bluesky color:0285FF %}</span>
+          Bluesky
         </a>
       </li>
       {% endif %}
 
       <!-- Custom Mastodon -->
-      <li>
+      {{/* <li>
         <a rel="me" href="https://k67.club/@tin" itemprop="sameAs">
           <i class="fab fa-mastodon" aria-hidden="true"></i> Mastodon
         </a>
-      </li>
+      </li> */}}
 
       {% if author.facebook %}
       <li>
@@ -106,7 +109,7 @@
 
       {% if author.google_plus %}
       <li>
-        <a href="https://plus.google.com/+{{ author.google_plus }}" itemprop="sameAs">
+        <a href="https://plus.google.com/{{ author.google_plus }}" itemprop="sameAs">
           <i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+
         </a>
       </li>
@@ -115,7 +118,7 @@
       {% if author.linkedin %}
       <li>
         <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">
-          <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn
+          <i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn
         </a>
       </li>
       {% endif %}
@@ -256,13 +259,7 @@
       </li>
       {% endif %}
 
-      {% if author.bluesky %}
-      <li>
-        <a href="https://bsky.app/profile/+{{ author.google_plus }}" itemprop="sameAs">
-          <i class="fa fa-bluesky" aria-hidden="true"></i> Bluesky
-        </a>
-      </li>
-      {% endif %}
+
 
       {% if author.vine %}
       <li>
