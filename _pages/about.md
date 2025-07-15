@@ -5,63 +5,71 @@ excerpt: I specialise in **creative project design** for human rights and transp
 header:
   overlay_image: /assets/images/about-header.jpg
 ---
- 
+
 ## <i class="fa fa-bullseye" aria-hidden="true"></i> My focus
 
 **Appropriate technology**: tech is a big part of my work; through the years I honed an understanding of what appropriate technology means for organisations with radically different sizes, goals and resources. There is no boilerplate approach that will work each time, because there are no boilerplate problems.
 
-I help with understanding which approach works best for _that_ project, in _that_ context, with _that_ group of humans.  
+I help with understanding which approach works best for _that_ project, in _that_ context, with _that_ group of humans.
 
 **Human systems:** Each group of humans is larger than the sum of themselves. Together they form a unique system with its own rules, abilities, and dynamics. People’s strengths need the right environment to shine; organising and inspiring teams for human-system magic can provide unexpected solutions and serendipity.
 
 I help identify what makes that human system unique, to design projects with that same uniqueness at its core.
 
-
 ## <i class="fa fa-wrench" aria-hidden="true"></i> My Toolbox
 
-**Human-centered design principles:** stakeholders, audiences, users — whatever you call them, they are the humans you are trying to reach. The human-centered design approach makes sure they are involved from the outset.   
-`assumption/validation loops`    
-`iterative creation`    
-`prototyping`   
+**Human-centered design principles:** stakeholders, audiences, users — whatever you call them, they are the humans you are trying to reach. The human-centered design approach makes sure they are involved from the outset.
+`assumption/validation loops`
+`iterative creation`
+`prototyping`
 `development timelines`
 
-**Peer events:** the best way to achieve a shared vision is to build the vision together. I facilitate peer workshops, blurring the line between participants and experts.   
-`experiential learning`   
-`adult learning`   
+**Peer events:** the best way to achieve a shared vision is to build the vision together. I facilitate peer workshops, blurring the line between participants and experts.
+`experiential learning`
+`adult learning`
 `resource/content co-creation`
 
-**Project inception sprints:** taking a fuzzy yet great idea into a concrete, actionable action plan.   
-`vision for success`  
-`audience mapping`   
-`team composition`   
+**Project inception sprints:** taking a fuzzy yet great idea into a concrete, actionable action plan.
+`vision for success`
+`audience mapping`
+`team composition`
 `resource analysis`
 
-**Project clinics:** tailored troubleshooting for existing projects, starting at situational analysis and going all the way up to organisational change. Sometimes a small nudge at the right time can have long-lasting influence.   
-`tactical course corrections`   
-`integrating new information`   
+**Project clinics:** tailored troubleshooting for existing projects, starting at situational analysis and going all the way up to organisational change. Sometimes a small nudge at the right time can have long-lasting influence.
+`tactical course corrections`
+`integrating new information`
 `identifying pivot opportunities`
-
-
 
 ## <i class="fa fa-phone" aria-hidden="true"></i> Quick interventions
 
 Emergency repairs for wobbly projects. Book a call for a pro-bono troubleshooting session — my digital door is always open. Don't worry if you're just at the ideation stage, find yourself in a crunch at the final stages, or anywhere in between — I am here to help.
 
+<div class="notice-card">
+<!-- Cal inline embed code begins -->
+<div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline-quick-chat"></div>
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+Cal("init", "quick-chat", {origin:"https://app.cal.com"});
 
-<!-- <div class="notice-card"> -->
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget notice-card" data-url="https://calendly.com/tinfyi/quick-intervention" style="min-width:320px;height:550px;"></div>
-<script type="text/javascript" src="https://calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
-<!-- </div> -->
+Cal.ns["quick-chat"]("inline", {
+elementOrSelector:"#my-cal-inline-quick-chat",
+config: {"layout":"month_view","theme":"light"},
+calLink: "tingeber/quick-chat",
+});
+
+Cal.ns["quick-chat"]("ui", {"theme":"light","hideEventTypeDetails":false,"layout":"month_view"});
+</script>
+
+  <!-- Cal inline embed code ends -->
+</div>
 
 ---
 
 ## <i class="fa fa-coffee" aria-hidden="true"></i> What drives me
 
-The relationship between humans and technology. More specifically, the cognitive abyss between the tools we use every day and our understanding of them. Tools define humanity, and essentially represent an extension of ourselves. However, we’re not as capable of deeply understanding modern tools, as we were in the past. A machine cog is a concept that is easy to grasp: recursion isn’t. Yet everyday on average we use more tools driven by recursive loops, than those driven by cogs (unless you’re Charlie Chaplin in Modern Times). [This imbalance can cause inequality, take away control, fuel extremism, exacerbate solitude](https://tin.fyi/take-back-control/). I wish to interrogate how humans and machines interact, and find ways to give humans tools for grasping, understanding, subverting and ultimately owning the obscure principles that guide machines to make  decisions that affect society.
+The relationship between humans and technology. More specifically, the cognitive abyss between the tools we use every day and our understanding of them. Tools define humanity, and essentially represent an extension of ourselves. However, we’re not as capable of deeply understanding modern tools, as we were in the past. A machine cog is a concept that is easy to grasp: recursion isn’t. Yet everyday on average we use more tools driven by recursive loops, than those driven by cogs (unless you’re Charlie Chaplin in Modern Times). [This imbalance can cause inequality, take away control, fuel extremism, exacerbate solitude](https://tin.fyi/take-back-control/). I wish to interrogate how humans and machines interact, and find ways to give humans tools for grasping, understanding, subverting and ultimately owning the obscure principles that guide machines to make decisions that affect society.
 
------
+---
 
 # Long CV and bio - [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](/assets/files/tin-geber-cv.pdf)
 
@@ -76,12 +84,11 @@ Tin has been working on the intersection of technology, art and activism for mos
 
 Tin has a BA in Media Sciences, and an [MA in Computational Arts](http://www.gold.ac.uk/pg/ma-computational-arts/).
 
-
 ## Professional Experience
 
 ### Design and Technology Lead – The Engine Room
 
-Distributed,	2014 - 2017
+Distributed, 2014 - 2017
 
 - Managed a team of up to 10 staff and contractors, leading The Engine Room’s direct support activities, developing organisational strategy, implementation of technology and human-centered design processes
 - Core member of the [Responsible Data Program](https://responsibledata.io/) team since its inception
@@ -99,7 +106,7 @@ Distributed,	2014 - 2017
 
 ### Web Operations - International Land Coalition
 
-Rome, Italy	2012-2014
+Rome, Italy 2012-2014
 
 - Developed strategy, implementation and project management of the [Land Matrix](http://www.landmatrix.org), an online database of large-scale land acquisitions. Facilitated complex multi-stakeholder, cross-sector interactions between academia, land-tenure practitioners, research organisations and grassroots organizations.
 - Managed external and internal teams of developers and designers for ILC’s online products.
@@ -114,9 +121,9 @@ Argentina, Bosnia and Herzegovina, Croatia, Hungary, Kenya, Kosovo, Italy, Maced
 
 - 2018 MA candidate in [Computational Arts](https://www.gold.ac.uk/pg/ma-computational-arts/)
 
-### Universita’ La Sapienza	Rome, Italy
+### Universita’ La Sapienza Rome, Italy
 
-- BA in Media Theory	2016
+- BA in Media Theory 2016
 - Thesis on the gatekeeping role of algorithms in digital media, and the effect of algorithmic mediation on the selection and presentation of information: [GitBooks](https://tingeber.gitbooks.io/the-new-gatekeepers/content/), [PDF](https://www.gitbook.com/download/pdf/book/tingeber/the-new-gatekeepers)/[ePub](https://www.gitbook.com/download/epub/book/tingeber/the-new-gatekeepers)/[Mobi](https://www.gitbook.com/download/mobi/book/tingeber/the-new-gatekeepers), [Github](https://github.com/tingeber/the-new-gatekeepers)
 
 ## Skills
@@ -146,8 +153,8 @@ Argentina, Bosnia and Herzegovina, Croatia, Hungary, Kenya, Kosovo, Italy, Maced
 - Proficient in all common OS environments office and graphic design packages
 - High practical knowledge of, and experience with digital security protocols, tools and platforms
 
-
 ## Selected Lectures and Events
+
 - “[Trendy trends in Civic Tech](https://docs.google.com/presentation/d/1pIAm4sRSWcTWAr5DZGXRJwzAouKbCvMn82UmFLx1UTY/edit#slide=id.p)”, PDF Ukraine 2016, Kyiv
 - “Integrating technology in advocacy” keynote, POINT conference 2015, Sarajevo
 - Responsible Data Sessions at the Community Knowledge Exchange 2015, Toronto
@@ -164,5 +171,5 @@ Argentina, Bosnia and Herzegovina, Croatia, Hungary, Kenya, Kosovo, Italy, Maced
 - Antin, Byrne, Geber et al. “[The Handbook of the Modern Development Specialist](https://responsibledata.io/resources/handbook/assets/pdf/responsible-data-handbook.pdf)”, 2015.
 - Tin Geber. “[Mobiles in development - an introduction to working with mobile data collection and management](https://www.theengineroom.org/wp-content/uploads/WeGov-engineroom-mobiles-dev-07.2014.pdf)”, 2014.
 - Tin Geber. “[State of the app in fighting sexual harassment](http://techpresident.com/news/wegov/24949/state-app-fighting-sexual-harassment)”, 2014
-- Christopher Wilson and Tin Geber.  “[Measuring impact on the go](https://www.theengineroom.org/wp-content/uploads/engnroom_monitoringguide_finalmay14.pdf)”, 2014  
-- Tin Geber. “[Why should we care about comparability in corruption data?](http://schoolofdata.org/2014/05/29/why-should-we-care-about-comparability-in-corruption-data/)”, 2014. For School of Data  
+- Christopher Wilson and Tin Geber. “[Measuring impact on the go](https://www.theengineroom.org/wp-content/uploads/engnroom_monitoringguide_finalmay14.pdf)”, 2014
+- Tin Geber. “[Why should we care about comparability in corruption data?](http://schoolofdata.org/2014/05/29/why-should-we-care-about-comparability-in-corruption-data/)”, 2014. For School of Data
