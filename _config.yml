@@ -187,7 +187,6 @@ gems:
   - jekyll-archives
   - jekyll-auto-image
   - jekyll-twitter-plugin
-  - jekyll-simple-icons
 
 # mimic GitHub Pages with --safe
 whitelist:
